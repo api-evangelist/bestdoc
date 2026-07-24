@@ -1,0 +1,30 @@
+# BestDoc
+
+> BestDoc is a healthcare patient-relationship-management (PRM) company that helps
+> hospitals improve the patient experience across inpatient and outpatient care.
+> Its products span concierge/inpatient experience management, outpatient practice
+> management, omni-channel patient feedback (BestDoc Survey), an AI Reply Assistant
+> for review responses, discharge management, and continued-care engagement. BestDoc
+> Technology Pvt. Ltd. is an ISO 27001:2013 certified company operating from Kochi,
+> Bangalore, and Dubai. This is an API Evangelist network profile; BestDoc does not
+> publish a public developer API, OpenAPI specification, or SDKs at this time.
+
+## Company
+- Website: https://www.bestdocapp.com/
+- About: https://www.bestdocapp.com/about-us/
+- Integrations (HIS/EMR/payment partners): https://www.bestdocapp.com/integrations/
+
+## Resources
+- Blog: https://www.bestdocapp.com/blog/
+- Case studies: https://www.bestdocapp.com/casestudies/
+- E-books: https://www.bestdocapp.com/bestdoc-ebooks/
+- Webinars & videos: https://www.bestdocapp.com/videos/
+
+## Legal & Security
+- Privacy policy: https://www.bestdocapp.com/privacy-policy/
+- Terms: https://www.bestdocapp.com/terms/
+- Compliance: ISO 27001:2013 certified
+
+## Contact
+- Email: mail@bestdocapp.com
+- Phone: +91-9020602222

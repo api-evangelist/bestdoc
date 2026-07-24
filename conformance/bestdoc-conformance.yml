@@ -1,0 +1,19 @@
+generated: '2026-07-18'
+method: searched
+source: https://www.bestdocapp.com/privacy-policy/
+standards:
+- id: iso-27001
+  conforms: true
+  evidence: 'Published statement: "BestDoc Technology Pvt. Ltd. is an ISO 27001:2013
+    certified company" (privacy policy + homepage footer).'
+  version: '2013'
+  published_url: https://www.bestdocapp.com/privacy-policy/
+- id: soc2
+  conforms: false
+- id: hipaa
+  conforms: false
+- id: gdpr
+  conforms: false
+- id: oauth2
+  conforms: false
+  evidence: No public developer API / OpenAPI security schemes were found for BestDoc.
